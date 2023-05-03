@@ -1,0 +1,182 @@
+[
+    {
+        "id": "645243b932e6534c0830c706",
+        "photo": "http://placehold.it/32x32",
+        "name": "Ethan Reynolds",
+        "likes": 62,
+        "recepies_count": 3,
+        "description": "Ethan is a chef with a passion for fusion cuisine. He loves combining flavors from different cultures to create unique and delicious dishes. He has trained at some of the best culinary schools in the world and is known for his expertise in cooking with seafood.",
+        "experience": 4,
+        "recipe_details":
+        [
+            {
+                "r_name": "Coconut-Lime Shrimp Skewers",
+                "ingredients": "1 lb large shrimp, 1/2 cup coconut cream, 1/4 cup fresh lime juice, 2 tablespoons olive oil, 2 cloves garlic, 1 teaspoon ground cumin, 1/2 teaspoon smoked paprika, 1/2 teaspoon salt, 1/4 teaspoon black pepper, Wooden skewers",
+                "cooking_method": "To make Coconut-Lime Shrimp Skewers, first mix together coconut cream, lime juice, olive oil, garlic, cumin, paprika, salt, and pepper in a bowl. Then, thread peeled and deveined shrimp onto soaked wooden skewers and brush them with the marinade. Grill the skewers for 2-3 minutes per side until the shrimp are pink and cooked through. Finally, garnish with fresh chopped cilantro and lime wedges, if desired. Serve hot and enjoy this delicious and flavorful seafood dish!",
+                "rating": 3
+            },
+            {
+                "r_name": "Sweet Potato Enchiladas",
+                "ingredients": "2 large sweet potatoes, 1 tablespoon olive oil, 1 small onion, 2 cloves garlic, 1 teaspoon ground cumin, 1 teaspoon chili powder, 1/4 teaspoon salt, 1 can black beans, 1 cup corn kernels, 1 cup enchilada sauce, 8-10 corn tortillas, 1 cup shredded Mexican cheese blend",
+                "cooking_method": "To make Sweet Potato Enchiladas, first cook the sweet potatoes in a skillet with olive oil, onion, garlic, cumin, chili powder, and salt until they are tender. Add black beans and corn to the skillet and stir to combine. Next, spread a layer of enchilada sauce in a baking dish, then fill each tortilla with the sweet potato mixture and roll it up. Place the rolled-up tortillas in the baking dish and top them with more enchilada sauce and shredded cheese. Bake the enchiladas in the oven until the cheese is melted and bubbly. Garnish with fresh cilantro, if desired, and enjoy your delicious Sweet Potato Enchiladas!",
+                "rating": 2
+            },
+            {
+                "r_name": "Miso-Glazed Salmon",
+                "ingredients": "4 salmon fillets, 1/4 cup white miso paste, 2 tablespoons sake, 2 tablespoons mirin, 2 tablespoons honey, 1 tablespoon soy sauce, 1 tablespoon vegetable oil, 1 tablespoon grated fresh ginger, 2 cloves garlic, 1 tablespoon sesame seeds, 2 green onions",
+                "cooking_method": "To make Miso-Glazed Salmon, first preheat the oven to 425°F. In a bowl, whisk together white miso paste, sake, mirin, honey, soy sauce, vegetable oil, grated ginger, and minced garlic. Place the salmon fillets on a baking sheet lined with parchment paper and brush them generously with the miso glaze. Sprinkle sesame seeds over the top of each fillet. Roast the salmon in the oven for about 10-12 minutes, until the salmon is cooked through and the glaze is golden brown and caramelized. Serve the salmon hot, garnished with thinly sliced green onions. Enjoy!",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "id": "645243b9636af447d8ce77b5",
+        "photo": "http://placehold.it/32x32",
+        "name": "Emily Coldwin",
+        "likes": 56,
+        "recepies_count": 3,
+        "description": "Emily is a pastry chef who specializes in French pastries. She has a degree in pastry arts from Le Cordon Bleu and has worked in some of the top pastry kitchens in the world. She is known for her creative flavor combinations and beautiful presentation.",
+        "experience": 4,
+        "recipe_details":
+        [
+            {
+                "r_name": "Sweet Potato Enchiladas",
+                "ingredients": "2 large sweet potatoes, 1 tablespoon olive oil, 1 small onion, 2 cloves garlic, 1 teaspoon ground cumin, 1 teaspoon chili powder, 1/4 teaspoon salt, 1 can black beans, 1 cup corn kernels, 1 cup enchilada sauce, 8-10 corn tortillas, 1 cup shredded Mexican cheese blend",
+                "cooking_method": "To make Sweet Potato Enchiladas, first cook the sweet potatoes in a skillet with olive oil, onion, garlic, cumin, chili powder, and salt until they are tender. Add black beans and corn to the skillet and stir to combine. Next, spread a layer of enchilada sauce in a baking dish, then fill each tortilla with the sweet potato mixture and roll it up. Place the rolled-up tortillas in the baking dish and top them with more enchilada sauce and shredded cheese. Bake the enchiladas in the oven until the cheese is melted and bubbly. Garnish with fresh cilantro, if desired, and enjoy your delicious Sweet Potato Enchiladas!",
+                "rating": 2
+            },
+            {
+                "r_name": "Miso-Glazed Salmon",
+                "ingredients": "4 salmon fillets, 1/4 cup white miso paste, 2 tablespoons sake, 2 tablespoons mirin, 2 tablespoons honey, 1 tablespoon soy sauce, 1 tablespoon vegetable oil, 1 tablespoon grated fresh ginger, 2 cloves garlic, 1 tablespoon sesame seeds, 2 green onions",
+                "cooking_method": "To make Miso-Glazed Salmon, first preheat the oven to 425°F. In a bowl, whisk together white miso paste, sake, mirin, honey, soy sauce, vegetable oil, grated ginger, and minced garlic. Place the salmon fillets on a baking sheet lined with parchment paper and brush them generously with the miso glaze. Sprinkle sesame seeds over the top of each fillet. Roast the salmon in the oven for about 10-12 minutes, until the salmon is cooked through and the glaze is golden brown and caramelized. Serve the salmon hot, garnished with thinly sliced green onions. Enjoy!",
+                "rating": 5
+            },
+            {
+                "r_name": "Coconut-Lime Shrimp Skewers",
+                "ingredients": "1 lb large shrimp, 1/2 cup coconut cream, 1/4 cup fresh lime juice, 2 tablespoons olive oil, 2 cloves garlic, 1 teaspoon ground cumin, 1/2 teaspoon smoked paprika, 1/2 teaspoon salt, 1/4 teaspoon black pepper, Wooden skewers",
+                "cooking_method": "To make Coconut-Lime Shrimp Skewers, first mix together coconut cream, lime juice, olive oil, garlic, cumin, paprika, salt, and pepper in a bowl. Then, thread peeled and deveined shrimp onto soaked wooden skewers and brush them with the marinade. Grill the skewers for 2-3 minutes per side until the shrimp are pink and cooked through. Finally, garnish with fresh chopped cilantro and lime wedges, if desired. Serve hot and enjoy this delicious and flavorful seafood dish!",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "id": "645243b9e9f0e6a54dd5bbae",
+        "photo": "http://placehold.it/32x32",
+        "name": "Lily Nguyen",
+        "likes": 74,
+        "recepies_count": 3,
+        "description": "Lily is a Vietnamese chef who grew up cooking with her grandmother. She specializes in traditional Vietnamese cuisine and is passionate about using fresh, locally sourced ingredients. She has won several awards for her signature dishes, such as pho and banh mi.",
+        "experience": 5,
+        "recipe_details":
+        [
+            {
+                "r_name": "Sweet Potato Enchiladas",
+                "ingredients": "2 large sweet potatoes, 1 tablespoon olive oil, 1 small onion, 2 cloves garlic, 1 teaspoon ground cumin, 1 teaspoon chili powder, 1/4 teaspoon salt, 1 can black beans, 1 cup corn kernels, 1 cup enchilada sauce, 8-10 corn tortillas, 1 cup shredded Mexican cheese blend",
+                "cooking_method": "To make Sweet Potato Enchiladas, first cook the sweet potatoes in a skillet with olive oil, onion, garlic, cumin, chili powder, and salt until they are tender. Add black beans and corn to the skillet and stir to combine. Next, spread a layer of enchilada sauce in a baking dish, then fill each tortilla with the sweet potato mixture and roll it up. Place the rolled-up tortillas in the baking dish and top them with more enchilada sauce and shredded cheese. Bake the enchiladas in the oven until the cheese is melted and bubbly. Garnish with fresh cilantro, if desired, and enjoy your delicious Sweet Potato Enchiladas!",
+                "rating": 2
+            },
+            {
+                "r_name": "Coconut-Lime Shrimp Skewers",
+                "ingredients": "1 lb large shrimp, 1/2 cup coconut cream, 1/4 cup fresh lime juice, 2 tablespoons olive oil, 2 cloves garlic, 1 teaspoon ground cumin, 1/2 teaspoon smoked paprika, 1/2 teaspoon salt, 1/4 teaspoon black pepper, Wooden skewers",
+                "cooking_method": "To make Coconut-Lime Shrimp Skewers, first mix together coconut cream, lime juice, olive oil, garlic, cumin, paprika, salt, and pepper in a bowl. Then, thread peeled and deveined shrimp onto soaked wooden skewers and brush them with the marinade. Grill the skewers for 2-3 minutes per side until the shrimp are pink and cooked through. Finally, garnish with fresh chopped cilantro and lime wedges, if desired. Serve hot and enjoy this delicious and flavorful seafood dish!",
+                "rating": 3
+            },
+            {
+                "r_name": "Miso-Glazed Salmon",
+                "ingredients": "4 salmon fillets, 1/4 cup white miso paste, 2 tablespoons sake, 2 tablespoons mirin, 2 tablespoons honey, 1 tablespoon soy sauce, 1 tablespoon vegetable oil, 1 tablespoon grated fresh ginger, 2 cloves garlic, 1 tablespoon sesame seeds, 2 green onions",
+                "cooking_method": "To make Miso-Glazed Salmon, first preheat the oven to 425°F. In a bowl, whisk together white miso paste, sake, mirin, honey, soy sauce, vegetable oil, grated ginger, and minced garlic. Place the salmon fillets on a baking sheet lined with parchment paper and brush them generously with the miso glaze. Sprinkle sesame seeds over the top of each fillet. Roast the salmon in the oven for about 10-12 minutes, until the salmon is cooked through and the glaze is golden brown and caramelized. Serve the salmon hot, garnished with thinly sliced green onions. Enjoy!",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "id": "645243b9545615df493b13f6",
+        "photo": "http://placehold.it/32x32",
+        "name": "Zachary Kim",
+        "likes": 59,
+        "recepies_count": 3,
+        "description": "Zachary is a Korean-American chef who loves cooking with bold flavors. He has trained at the Culinary Institute of America and has worked in several Michelin-starred restaurants. He is known for his unique flavor combinations and creative plating techniques.",
+        "experience": 3,
+        "recipe_details":
+        [
+            {
+                "r_name": "Coconut-Lime Shrimp Skewers",
+                "ingredients": "1 lb large shrimp, 1/2 cup coconut cream, 1/4 cup fresh lime juice, 2 tablespoons olive oil, 2 cloves garlic, 1 teaspoon ground cumin, 1/2 teaspoon smoked paprika, 1/2 teaspoon salt, 1/4 teaspoon black pepper, Wooden skewers",
+                "cooking_method": "To make Coconut-Lime Shrimp Skewers, first mix together coconut cream, lime juice, olive oil, garlic, cumin, paprika, salt, and pepper in a bowl. Then, thread peeled and deveined shrimp onto soaked wooden skewers and brush them with the marinade. Grill the skewers for 2-3 minutes per side until the shrimp are pink and cooked through. Finally, garnish with fresh chopped cilantro and lime wedges, if desired. Serve hot and enjoy this delicious and flavorful seafood dish!",
+                "rating": 3
+            },
+            {
+                "r_name_3": "Miso-Glazed Salmon",
+                "ingredients": "4 salmon fillets, 1/4 cup white miso paste, 2 tablespoons sake, 2 tablespoons mirin, 2 tablespoons honey, 1 tablespoon soy sauce, 1 tablespoon vegetable oil, 1 tablespoon grated fresh ginger, 2 cloves garlic, 1 tablespoon sesame seeds, 2 green onions",
+                "cooking_method": "To make Miso-Glazed Salmon, first preheat the oven to 425°F. In a bowl, whisk together white miso paste, sake, mirin, honey, soy sauce, vegetable oil, grated ginger, and minced garlic. Place the salmon fillets on a baking sheet lined with parchment paper and brush them generously with the miso glaze. Sprinkle sesame seeds over the top of each fillet. Roast the salmon in the oven for about 10-12 minutes, until the salmon is cooked through and the glaze is golden brown and caramelized. Serve the salmon hot, garnished with thinly sliced green onions. Enjoy!",
+                "rating": 5
+            },
+            {
+                "r_name": "Sweet Potato Enchiladas",
+                "ingredients": "2 large sweet potatoes, 1 tablespoon olive oil, 1 small onion, 2 cloves garlic, 1 teaspoon ground cumin, 1 teaspoon chili powder, 1/4 teaspoon salt, 1 can black beans, 1 cup corn kernels, 1 cup enchilada sauce, 8-10 corn tortillas, 1 cup shredded Mexican cheese blend",
+                "cooking_method": "To make Sweet Potato Enchiladas, first cook the sweet potatoes in a skillet with olive oil, onion, garlic, cumin, chili powder, and salt until they are tender. Add black beans and corn to the skillet and stir to combine. Next, spread a layer of enchilada sauce in a baking dish, then fill each tortilla with the sweet potato mixture and roll it up. Place the rolled-up tortillas in the baking dish and top them with more enchilada sauce and shredded cheese. Bake the enchiladas in the oven until the cheese is melted and bubbly. Garnish with fresh cilantro, if desired, and enjoy your delicious Sweet Potato Enchiladas!",
+                "rating": 2
+            }
+        ]
+    },
+    {
+        "id": "645243b9722754c66975abce",
+        "photo": "http://placehold.it/32x32",
+        "name": "Harper Williams",
+        "likes": 83,
+        "recepies_count": 3,
+        "description": "Harper is a chef who specializes in Southern cuisine. She grew up cooking with her grandmother and is known for her expertise in cooking with comfort foods like fried chicken, mac and cheese, and collard greens. She has won several awards for her signature dishes.",
+        "experience": 6,
+        "recipe_details":
+        [
+            {
+                "r_name": "Miso-Glazed Salmon",
+                "ingredients": "4 salmon fillets, 1/4 cup white miso paste, 2 tablespoons sake, 2 tablespoons mirin, 2 tablespoons honey, 1 tablespoon soy sauce, 1 tablespoon vegetable oil, 1 tablespoon grated fresh ginger, 2 cloves garlic, 1 tablespoon sesame seeds, 2 green onions",
+                "cooking_method": "To make Miso-Glazed Salmon, first preheat the oven to 425°F. In a bowl, whisk together white miso paste, sake, mirin, honey, soy sauce, vegetable oil, grated ginger, and minced garlic. Place the salmon fillets on a baking sheet lined with parchment paper and brush them generously with the miso glaze. Sprinkle sesame seeds over the top of each fillet. Roast the salmon in the oven for about 10-12 minutes, until the salmon is cooked through and the glaze is golden brown and caramelized. Serve the salmon hot, garnished with thinly sliced green onions. Enjoy!",
+                "rating": 5
+            },
+            {
+                "r_name": "Coconut-Lime Shrimp Skewers",
+                "ingredients": "1 lb large shrimp, 1/2 cup coconut cream, 1/4 cup fresh lime juice, 2 tablespoons olive oil, 2 cloves garlic, 1 teaspoon ground cumin, 1/2 teaspoon smoked paprika, 1/2 teaspoon salt, 1/4 teaspoon black pepper, Wooden skewers",
+                "cooking_method": "To make Coconut-Lime Shrimp Skewers, first mix together coconut cream, lime juice, olive oil, garlic, cumin, paprika, salt, and pepper in a bowl. Then, thread peeled and deveined shrimp onto soaked wooden skewers and brush them with the marinade. Grill the skewers for 2-3 minutes per side until the shrimp are pink and cooked through. Finally, garnish with fresh chopped cilantro and lime wedges, if desired. Serve hot and enjoy this delicious and flavorful seafood dish!",
+                "rating": 3
+            },
+            {
+                "r_name": "Sweet Potato Enchiladas",
+                "ingredients": "2 large sweet potatoes, 1 tablespoon olive oil, 1 small onion, 2 cloves garlic, 1 teaspoon ground cumin, 1 teaspoon chili powder, 1/4 teaspoon salt, 1 can black beans, 1 cup corn kernels, 1 cup enchilada sauce, 8-10 corn tortillas, 1 cup shredded Mexican cheese blend",
+                "cooking_method": "To make Sweet Potato Enchiladas, first cook the sweet potatoes in a skillet with olive oil, onion, garlic, cumin, chili powder, and salt until they are tender. Add black beans and corn to the skillet and stir to combine. Next, spread a layer of enchilada sauce in a baking dish, then fill each tortilla with the sweet potato mixture and roll it up. Place the rolled-up tortillas in the baking dish and top them with more enchilada sauce and shredded cheese. Bake the enchiladas in the oven until the cheese is melted and bubbly. Garnish with fresh cilantro, if desired, and enjoy your delicious Sweet Potato Enchiladas!",
+                "rating": 2
+            }
+        ]
+    },
+    {
+        "id": "645243b968f8d451c1f5ec0f",
+        "photo": "http://placehold.it/32x32",
+        "name": "Alex Danvers",
+        "likes": 57,
+        "recepies_count": 3,
+        "description": "Alex is a Mexican-American chef who specializes in modern Mexican cuisine. She has trained at several top culinary schools and is passionate about using fresh, locally sourced ingredients. She is known for her expertly spiced dishes and creative use of Mexican ingredients such as mole and chiles rellenos.",
+        "experience": 4,
+        "recipe_details":
+        [
+            {
+                "r_name": "Coconut-Lime Shrimp Skewers",
+                "ingredients": "1 lb large shrimp, 1/2 cup coconut cream, 1/4 cup fresh lime juice, 2 tablespoons olive oil, 2 cloves garlic, 1 teaspoon ground cumin, 1/2 teaspoon smoked paprika, 1/2 teaspoon salt, 1/4 teaspoon black pepper, Wooden skewers",
+                "cooking_method": "To make Coconut-Lime Shrimp Skewers, first mix together coconut cream, lime juice, olive oil, garlic, cumin, paprika, salt, and pepper in a bowl. Then, thread peeled and deveined shrimp onto soaked wooden skewers and brush them with the marinade. Grill the skewers for 2-3 minutes per side until the shrimp are pink and cooked through. Finally, garnish with fresh chopped cilantro and lime wedges, if desired. Serve hot and enjoy this delicious and flavorful seafood dish!",
+                "rating": 3
+            },
+            {
+                "r_name": "Miso-Glazed Salmon",
+                "ingredients": "4 salmon fillets, 1/4 cup white miso paste, 2 tablespoons sake, 2 tablespoons mirin, 2 tablespoons honey, 1 tablespoon soy sauce, 1 tablespoon vegetable oil, 1 tablespoon grated fresh ginger, 2 cloves garlic, 1 tablespoon sesame seeds, 2 green onions",
+                "cooking_method": "To make Miso-Glazed Salmon, first preheat the oven to 425°F. In a bowl, whisk together white miso paste, sake, mirin, honey, soy sauce, vegetable oil, grated ginger, and minced garlic. Place the salmon fillets on a baking sheet lined with parchment paper and brush them generously with the miso glaze. Sprinkle sesame seeds over the top of each fillet. Roast the salmon in the oven for about 10-12 minutes, until the salmon is cooked through and the glaze is golden brown and caramelized. Serve the salmon hot, garnished with thinly sliced green onions. Enjoy!",
+                "rating": 5
+            },
+            {
+                "r_name": "Sweet Potato Enchiladas",
+                "ingredients": "2 large sweet potatoes, 1 tablespoon olive oil, 1 small onion, 2 cloves garlic, 1 teaspoon ground cumin, 1 teaspoon chili powder, 1/4 teaspoon salt, 1 can black beans, 1 cup corn kernels, 1 cup enchilada sauce, 8-10 corn tortillas, 1 cup shredded Mexican cheese blend",
+                "cooking_method": "To make Sweet Potato Enchiladas, first cook the sweet potatoes in a skillet with olive oil, onion, garlic, cumin, chili powder, and salt until they are tender. Add black beans and corn to the skillet and stir to combine. Next, spread a layer of enchilada sauce in a baking dish, then fill each tortilla with the sweet potato mixture and roll it up. Place the rolled-up tortillas in the baking dish and top them with more enchilada sauce and shredded cheese. Bake the enchiladas in the oven until the cheese is melted and bubbly. Garnish with fresh cilantro, if desired, and enjoy your delicious Sweet Potato Enchiladas!",
+                "rating": 2
+            }
+        ]
+    }
+]
