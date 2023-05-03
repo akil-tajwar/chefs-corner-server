@@ -6,7 +6,7 @@ const chefs = require('./data/chefs.json');
 
 app.use(cors());
 app.get('/', (req, res) => {
-    res.send('Dragon is running');
+    res.send('chef is running');
 });
 
 app.get('/chefs', (req, res) => {
@@ -14,5 +14,5 @@ app.get('/chefs', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log(`Dragon is running on ${port}`);
+    console.log(`chef is running on ${port}`);
 })
